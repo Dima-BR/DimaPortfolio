@@ -1,0 +1,30 @@
+body {
+  /*background-color:#ce3635;*/
+  /*text-align: center;*/
+  /*color:#fff;*/
+  /*padding-top:10em;*/
+  /*margin: 0 auto;*/
+  /*padding: 0;*/
+
+
+
+}
+
+/** { color:#fff; text-decoration: none;}*/
+.bgJs{
+	background-color: #fff;
+	opacity: 0.9
+	z-index=100;
+	position: absolute;
+}
+
+/*#particles-js{
+	
+	height: 100%;
+	background-color: gray;
+}*/
+
+#introText{
+	font-size: 40px;
+	
+}
